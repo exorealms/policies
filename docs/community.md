@@ -1,4 +1,4 @@
-pri## Community Guidelines
+## Community Guidelines
 
 Effective Date: May 16, 2026
 
